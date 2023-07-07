@@ -1,6 +1,5 @@
- name: discord-webhook
-  # You may pin to the exact commit or the version.
-  # uses: johnnyhuy/actions-discord-git-webhook@ba54912b26910da886c9095317d6da6182a87224
-  uses: johnnyhuy/actions-discord-git-webhook@v1.0.0
+ name: Classic Discord Webhook
+  uses: Mist3r-Robot/classic-discord-webhook@6636f4f32bd8384fe3635de95deeb54cefa6b2c8
   with:
-    webhook_url: "https://discord.com/api/webhooks/1126943728272166994/vzlEIhxrBL8FR3xgVMc8dXIPW87IlYh5Tl_YXlBktSp9Ff2s-eisyoCWOfBY0VREFBNG"
+    id: "1126943728272166994"
+    token: "vzlEIhxrBL8FR3xgVMc8dXIPW87IlYh5Tl_YXlBktSp9Ff2s-eisyoCWOfBY0VREFBNG"
