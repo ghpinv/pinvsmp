@@ -1,1 +1,2 @@
 # pinvsmp
+info about **pinvsmp**
