@@ -1,5 +1,5 @@
  name: Classic Discord Webhook
-  uses: Mist3r-Robot/classic-discord-webhook@6636f4f32bd8384fe3635de95deeb54cefa6b2c8
+  uses: Mist3r-Robot/classic-discord-webhook@v1.4.0
   with:
-    id: "1126943728272166994"
-    token: "vzlEIhxrBL8FR3xgVMc8dXIPW87IlYh5Tl_YXlBktSp9Ff2s-eisyoCWOfBY0VREFBNG"
+    id: 1126943728272166994
+    token: vzlEIhxrBL8FR3xgVMc8dXIPW87IlYh5Tl_YXlBktSp9Ff2s-eisyoCWOfBY0VREFBNG
