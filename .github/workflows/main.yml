@@ -1,0 +1,7 @@
+- name: Discord Notifier
+  # You may pin to the exact commit or the version.
+  # uses: fateyan/action-discord-notifier@2d543d3e7e2c63546420b10f2652cb61e24578fc
+  uses: fateyan/action-discord-notifier@v1.2.0
+  with:
+    webhook: https://ptb.discord.com/api/webhooks/1126943728272166994/vzlEIhxrBL8FR3xgVMc8dXIPW87IlYh5Tl_YXlBktSp9Ff2s-eisyoCWOfBY0VREFBNG
+    message-title: "Commit"
